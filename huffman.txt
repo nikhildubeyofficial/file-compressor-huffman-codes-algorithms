@@ -1,0 +1,210 @@
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
+Students must select any system for which they are expected to design and implement their algorithms and then analyze the time and space complexity. The system selected for this project must be discussed in detail with the instructor before starting the implementation. The maximum mark of the project is 100.  Project weightage would be 30% of the overall assessment. The group project may also be considered as per the project problem/definition.
+
+The project will have the following stages-
+
+1. Problem Identification: The student should identify and finalize the problem. Upon finalization, the problem has to be documented in detail with its algorithmic objective clearly explained. Also, list out the different constraints in the problem that the algorithm needs to satisfy.
+
+2. Design: This stage includes, Algorithm steps and procedure, Pseudo Code, and Flow chart.
+
+3. Implementation: Implement your algorithm in C/C++/JAVA/Python.
+
+4. Testing: Test your algorithms for all the constraints mentioned in the problem and put screenshots of the results.
+
+5. Results: Show the time and space complexity analysis of your algorithm and discuss it in detail. Each aspect of the algorithm should be focused on the results.
+
+Implementation of the algorithm is mandatory for submitting the project. 
+
+A report having all the above chapters should be submitted in pdf format.
+
+A short video explaining the overall flow of the project is also required to be submitted along with the other submission files.
+
+The maximum mark is 100.
